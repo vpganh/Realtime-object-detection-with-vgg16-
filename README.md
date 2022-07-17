@@ -8,8 +8,7 @@
 
 ## Tiền xử lý dữ liệu
 - Làm giàu dữ liệu bằng `albumentations`
-- Đưa ảnh về kích thước 640x480
-
+- Đưa ảnh về kích thước 450x450
 ## Train
 - Sử dụng mô hình VGG16 từ `tensorflow.keras.applications`
 - Sử dụng hàm tối ưu Adam từ `tf.keras.optimizers.Adam(learning_rate=0.0001, decay=lr_decay)`
