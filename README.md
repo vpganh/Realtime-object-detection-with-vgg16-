@@ -14,5 +14,6 @@
 - Sử dụng hàm tối ưu Adam từ `tf.keras.optimizers.Adam(learning_rate=0.0001, decay=lr_decay)`
 
 ## Kết quả
-![image](https://user-images.githubusercontent.com/108390918/179392870-12eee233-b8a5-4ce6-aaf2-c3829842c138.png)
 Video Realtime: https://drive.google.com/file/d/1ntGFqshQu0J4_uQXoKQV1LDrCf-8xni5/view?usp=sharing
+![image](https://user-images.githubusercontent.com/108390918/179392870-12eee233-b8a5-4ce6-aaf2-c3829842c138.png)
+
