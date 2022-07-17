@@ -1,5 +1,5 @@
 # Realtime-object-detection-with-vgg16
-## Sử dụng model VGG16 để xây dựng một bộ nhận diện vật thể thời gian gian bằng Python.
+## Sử dụng model VGG16 để xây dựng một bộ nhận diện vật thể thời gian thật bằng Python.
 
 ## Thu thập dữ liệu
 - Ảnh của vật thể được chụp từ camera bằng `cv2`.
